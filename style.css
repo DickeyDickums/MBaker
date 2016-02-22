@@ -1,0 +1,18 @@
+/*
+Theme Name: Marilia Baker Custom Theme
+Theme URI:;
+Author: Scott Montgomery;
+Description: Theme for Marilia Baker website
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI:
+Text Domain: MariliaBaker.com
+*/
+body {
+  padding-top: 50px;
+  padding-bottom: 20px; }
+
+.admin-bar .navbar-fixed-top {
+  margin-top: 32px; }
+
+/*# sourceMappingURL=style.css.map */

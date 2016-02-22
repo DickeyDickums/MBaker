@@ -1,0 +1,29 @@
+
+
+$head_foot_bg: #fff;
+$font: 'Oxygen', sans-serif;
+$item-height:300px;
+$footer-active:#333333;
+$form_border_radius: 5px;
+
+
+
+html {
+    position: relative;
+    min-height: 100vh;
+}
+body {
+    margin: 0 0 100px; /* bottom = footer height */
+    padding-top:50px;
+	padding-bottom: 20px;
+	font-family: $font;
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    background:black;
+    text-align: center;
+}
